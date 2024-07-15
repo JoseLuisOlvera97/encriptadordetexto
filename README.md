@@ -12,3 +12,5 @@ Cada boton esta codificado para que no realice funcion si no se ha escrito nada 
 
 ![2024-07-14_19-07](https://github.com/user-attachments/assets/e687a689-f84c-485a-b30b-26faf3f57b3a)
 El encriptador de texto funciona para encriptar y desencriptar texto, ademas de permitir copiar el texto encriptado y pegarlo en algun otro lado.
+
+![2024-07-14_21-32](https://github.com/user-attachments/assets/1d12cce8-5319-49d0-b156-0ecda25c0122)
